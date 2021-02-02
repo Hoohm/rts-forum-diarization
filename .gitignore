@@ -1,0 +1,8 @@
+.snakemake*
+**.wav
+**.mp3
+**.mp4
+**.srt
+**.json
+**.txt
+config.yaml
